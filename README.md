@@ -3,7 +3,7 @@
 
 ## Descrição: Modelagem de um app de Supermercado.
 
-Esta atividade consiste em desenvolver uma modelagem de umaplicativo de supermercado em swift no ​playground​. Criem um repositório git com o nome “modelagemSupermercado”.
+Esta atividade consiste em desenvolver uma modelagem de um aplicativo de supermercado em swift no ​playground​. Criem um repositório git com o nome “modelagemSupermercado”.
 
 ## Requisitos Mínimos:
 - [x] 3 classes;

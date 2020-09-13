@@ -1,4 +1,4 @@
-# modelagemSupermercado
+# Exercício Supermercado
 
 
 ## Descrição: Modelagem de um app de Supermercado.
